@@ -15,6 +15,7 @@ Este repositório contém os códigos atualizados para a disciplina de Inteligê
     * [Lista 1 - Classificação](#pg-lista-1-classificação)
     * [Lista 2 - Previsão de séries temporais](#pg-lista-2-previsão-de-séries-temporais)
     * [Lista 3 - Mapa de Kohonen](#pg-lista-3-mapa-de-kohonen)
+    * [Lista 4 - Echo State Network](#pg-lista-4-esn)
 - [Contato](#contato)
 
 
@@ -57,9 +58,9 @@ A segunda lista de exercícios contempla o uso de Redes Neurais para um problema
 
 A terceira lista de exercícios contempla o uso de um tipo especial de Redes Neurais, chamado Mapa de Kohonen. A pasta `pos_grad/lista_3` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
 
-# Conteúdo Fuzzy
+## PG Lista 4 - ESN
 
-Link para as aulas de ICA [aqui](https://drive.google.com/drive/folders/1DU0AibYCWsPRt3nPygvJXlA9btLonjJC?usp=sharing)
+A quarta lista de exercícios contempla o uso de um tipo especial de Redes Neurais, chamado Echo State Network, utilizado para modelar dinâmica de sistemas. A pasta `pos_grad/lista_4` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
 
 # Contato 
 
